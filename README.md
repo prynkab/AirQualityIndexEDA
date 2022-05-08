@@ -12,3 +12,5 @@ The dataset contains the following columns:
 - PollutantMax: Maximum units of the Pollutant measured 10.PollutantAvg: Average units of the pollutant measured.
 
 All data have been loaded and the data have been analysed. The null values have been removed and geospatial data analysis was also done.
+
+Kaggle dataset: https://www.kaggle.com/datasets/chitwanmanchanda/indias-air-quality-index
